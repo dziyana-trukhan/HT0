@@ -1,0 +1,13 @@
+/Bed.class
+/Building.class
+/Chair.class
+/Furniture.class
+/IlluminanceTooLittleException.class
+/IlluminanceTooMuchException.class
+/Lightbulb.class
+/Room.class
+/Sofa.class
+/SoftChair.class
+/SoftSofa.class
+/SpaceUsageTooMuchException.class
+/Table.class
